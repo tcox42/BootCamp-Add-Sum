@@ -1,0 +1,17 @@
+{
+  "name": "BootCamp-Add-Sum",
+  "version": "1.0.0",
+  "description": "Add-ten app. Given a request, returns key: sum whose value is num+=10",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "tcox42",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
