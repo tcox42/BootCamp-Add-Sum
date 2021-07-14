@@ -6,6 +6,6 @@ app.get("/:num", (req, res, next) => {
         sum: Number(req.params.num) + 10 }
     );
 });
-app.listen(3000, () => {
+app.listen(4000, () => {
     console.log("Running on plexpi.net:4000");
 });

@@ -11,6 +11,8 @@ Returns a JSON object, with a single key sum, whose value is the sum of num and 
 ## Running and install
 **Note:** Temporarily will be hosted on plexpi.net:4000
 
+`git clone https://github.com/tcox42/BootCamp-Add-Sum.git && cd BootCamp-Add-Sum`
+
 `npm install`
 
 `npm start`
