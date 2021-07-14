@@ -1,4 +1,8 @@
 # BootCamp-Add-Sum
+
+## Restrictions: Disconnect from corporate VPN 
+**Corporate firewall blocks port and gives "McAfee Web Gateway - Notification"**
+
 ## Specification:
 An "add-ten" app
 
